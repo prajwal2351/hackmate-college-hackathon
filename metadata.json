@@ -1,0 +1,6 @@
+{
+  "name": "hacker - College Hackathon Hub",
+  "description": "Find hackathon ideas, assemble dream teams, and build winning projects for college hackathons.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
